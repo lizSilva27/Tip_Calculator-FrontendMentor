@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lizSilva27/Tip_Calculator-FrontendMentor]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [[Add live site URL here](https://tip-calculator-ftm.netlify.app)]
 
 ## My process
 
